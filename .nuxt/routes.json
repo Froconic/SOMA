@@ -4,83 +4,77 @@
     "path": "/About",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\About.vue",
     "chunkName": "pages/About",
-    "_name": "_7a0422d6"
+    "url": "/About"
   },
   {
     "name": "Art",
     "path": "/Art",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\Art.vue",
     "chunkName": "pages/Art",
-    "_name": "_e4479228"
+    "url": "/Art"
   },
   {
     "name": "Blog",
     "path": "/Blog",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\Blog.vue",
     "chunkName": "pages/Blog",
-    "_name": "_52a0bbe9"
+    "url": "/Blog"
   },
   {
     "name": "Contact",
     "path": "/Contact",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\Contact.vue",
     "chunkName": "pages/Contact",
-    "_name": "_0c0399a9"
+    "url": "/Contact"
   },
   {
     "name": "Support",
     "path": "/Support",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\Support.vue",
     "chunkName": "pages/Support",
-    "_name": "_c988f450"
+    "url": "/Support"
   },
   {
     "name": "art-page-page",
     "path": "/art/page/:page?",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\art\\\\page\\\\_page.vue",
-    "chunkName": "pages/art/page/_page",
-    "_name": "_c27b03ba"
+    "chunkName": "pages/art/page/_page"
   },
   {
     "name": "blog-author-author",
     "path": "/blog/author/:author?",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\blog\\\\author\\\\_author.vue",
-    "chunkName": "pages/blog/author/_author",
-    "_name": "_5297b086"
+    "chunkName": "pages/blog/author/_author"
   },
   {
     "name": "blog-category-category",
     "path": "/blog/category/:category?",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\blog\\\\category\\\\_category.vue",
-    "chunkName": "pages/blog/category/_category",
-    "_name": "_6069ee26"
+    "chunkName": "pages/blog/category/_category"
   },
   {
     "name": "blog-page-page",
     "path": "/blog/page/:page?",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\blog\\\\page\\\\_page.vue",
-    "chunkName": "pages/blog/page/_page",
-    "_name": "_28eebef4"
+    "chunkName": "pages/blog/page/_page"
   },
   {
     "name": "art-slug",
     "path": "/art/:slug?",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\art\\\\_slug.vue",
-    "chunkName": "pages/art/_slug",
-    "_name": "_3bf562a4"
+    "chunkName": "pages/art/_slug"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug?",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug",
-    "_name": "_85bc915e"
+    "chunkName": "pages/blog/_slug"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\akira\\\\Vue Projects\\\\ROS-vercel\\\\SOMA\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_2249ddbb"
+    "url": "/"
   }
 ]
