@@ -4,18 +4,18 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _3674a615 = () => interopDefault(import('..\\pages\\About.vue' /* webpackChunkName: "pages/About" */))
-const _2a7b042a = () => interopDefault(import('..\\pages\\Art.vue' /* webpackChunkName: "pages/Art" */))
-const _daf9566c = () => interopDefault(import('..\\pages\\Blog.vue' /* webpackChunkName: "pages/Blog" */))
-const _6e604928 = () => interopDefault(import('..\\pages\\Contact.vue' /* webpackChunkName: "pages/Contact" */))
-const _04cf9552 = () => interopDefault(import('..\\pages\\Support.vue' /* webpackChunkName: "pages/Support" */))
-const _eeac64f8 = () => interopDefault(import('..\\pages\\art\\page\\_page.vue' /* webpackChunkName: "pages/art/page/_page" */))
-const _15205476 = () => interopDefault(import('..\\pages\\blog\\author\\_author.vue' /* webpackChunkName: "pages/blog/author/_author" */))
-const _37c14836 = () => interopDefault(import('..\\pages\\blog\\category\\_category.vue' /* webpackChunkName: "pages/blog/category/_category" */))
-const _3e8b3d45 = () => interopDefault(import('..\\pages\\blog\\page\\_page.vue' /* webpackChunkName: "pages/blog/page/_page" */))
-const _61effacf = () => interopDefault(import('..\\pages\\art\\_slug.vue' /* webpackChunkName: "pages/art/_slug" */))
-const _3a8c8f50 = () => interopDefault(import('..\\pages\\blog\\_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
-const _428b3e0c = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _7a0422d6 = () => interopDefault(import('..\\pages\\About.vue' /* webpackChunkName: "pages/About" */))
+const _e4479228 = () => interopDefault(import('..\\pages\\Art.vue' /* webpackChunkName: "pages/Art" */))
+const _52a0bbe9 = () => interopDefault(import('..\\pages\\Blog.vue' /* webpackChunkName: "pages/Blog" */))
+const _0c0399a9 = () => interopDefault(import('..\\pages\\Contact.vue' /* webpackChunkName: "pages/Contact" */))
+const _c988f450 = () => interopDefault(import('..\\pages\\Support.vue' /* webpackChunkName: "pages/Support" */))
+const _c27b03ba = () => interopDefault(import('..\\pages\\art\\page\\_page.vue' /* webpackChunkName: "pages/art/page/_page" */))
+const _5297b086 = () => interopDefault(import('..\\pages\\blog\\author\\_author.vue' /* webpackChunkName: "pages/blog/author/_author" */))
+const _6069ee26 = () => interopDefault(import('..\\pages\\blog\\category\\_category.vue' /* webpackChunkName: "pages/blog/category/_category" */))
+const _28eebef4 = () => interopDefault(import('..\\pages\\blog\\page\\_page.vue' /* webpackChunkName: "pages/blog/page/_page" */))
+const _3bf562a4 = () => interopDefault(import('..\\pages\\art\\_slug.vue' /* webpackChunkName: "pages/art/_slug" */))
+const _85bc915e = () => interopDefault(import('..\\pages\\blog\\_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
+const _2249ddbb = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -30,51 +30,51 @@ export const routerOptions = {
 
   routes: [{
     path: "/About",
-    component: _3674a615,
+    component: _7a0422d6,
     name: "About"
   }, {
     path: "/Art",
-    component: _2a7b042a,
+    component: _e4479228,
     name: "Art"
   }, {
     path: "/Blog",
-    component: _daf9566c,
+    component: _52a0bbe9,
     name: "Blog"
   }, {
     path: "/Contact",
-    component: _6e604928,
+    component: _0c0399a9,
     name: "Contact"
   }, {
     path: "/Support",
-    component: _04cf9552,
+    component: _c988f450,
     name: "Support"
   }, {
     path: "/art/page/:page?",
-    component: _eeac64f8,
+    component: _c27b03ba,
     name: "art-page-page"
   }, {
     path: "/blog/author/:author?",
-    component: _15205476,
+    component: _5297b086,
     name: "blog-author-author"
   }, {
     path: "/blog/category/:category?",
-    component: _37c14836,
+    component: _6069ee26,
     name: "blog-category-category"
   }, {
     path: "/blog/page/:page?",
-    component: _3e8b3d45,
+    component: _28eebef4,
     name: "blog-page-page"
   }, {
     path: "/art/:slug?",
-    component: _61effacf,
+    component: _3bf562a4,
     name: "art-slug"
   }, {
     path: "/blog/:slug?",
-    component: _3a8c8f50,
+    component: _85bc915e,
     name: "blog-slug"
   }, {
     path: "/",
-    component: _428b3e0c,
+    component: _2249ddbb,
     name: "index"
   }],
 
