@@ -1,0 +1,65 @@
+{
+  "ArticleList": {
+    "description": "Auto imported from components/ArticleList.vue"
+  },
+  "ArtPagination": {
+    "description": "Auto imported from components/ArtPagination.vue"
+  },
+  "ArtPrevNext": {
+    "description": "Auto imported from components/ArtPrevNext.vue"
+  },
+  "ArtworkList": {
+    "description": "Auto imported from components/ArtworkList.vue"
+  },
+  "Author": {
+    "description": "Auto imported from components/Author.vue"
+  },
+  "Category": {
+    "description": "Auto imported from components/Category.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "HomeFooter": {
+    "description": "Auto imported from components/HomeFooter.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/Pagination.vue"
+  },
+  "PrevNext": {
+    "description": "Auto imported from components/PrevNext.vue"
+  },
+  "Related": {
+    "description": "Auto imported from components/Related.vue"
+  },
+  "Search": {
+    "description": "Auto imported from components/Search.vue"
+  },
+  "Social": {
+    "description": "Auto imported from components/Social.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "SvgDoubleBack": {
+    "description": "Auto imported from components/svg/DoubleBack.vue"
+  },
+  "SvgDoubleFwd": {
+    "description": "Auto imported from components/svg/DoubleFwd.vue"
+  },
+  "SvgSingleBack": {
+    "description": "Auto imported from components/svg/SingleBack.vue"
+  },
+  "SvgSingleFwd": {
+    "description": "Auto imported from components/svg/SingleFwd.vue"
+  }
+}
